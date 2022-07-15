@@ -11,7 +11,7 @@ public class TestaCalculoImc {
 		double altura;
 		double massa;
 		
-		System.out.println( " Vamos calcular seu IMC a ser alcançado  !!! ");
+		System.out.println( " Vamos calcular seu IMC a ser alcançado para Ariane !!! ");
 		System.out.println( " =========================================== ");
 		System.out.println(" Digite seu nome: ");
 		nome = scanner.nextLine();
